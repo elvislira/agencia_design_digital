@@ -27,7 +27,7 @@ export default function Rodape(props) {
                     <Image className={estilos.redes_img} src={Gp} />
                 </div>
 
-                <p>Copyright 2022 © <span>Elvis Lira</span></p>
+                <p>Copyright 2024 © <span>Elvis Lira</span></p>
             </div>
         </footer>
     );
